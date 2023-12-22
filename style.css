@@ -11,17 +11,17 @@
     --surface-color:rgba(255, 255, 255, 0.05);
     --surface-color-hover:rgba(0, 0, 0, 0.02);
     --highlight-color: rgba(5, 149, 238, 0.2);
-    --switch-bg-url: url(/IMG/assets/moon-stars.svg);
+    --switch-bg-url: url(IMG/assets/moon-stars.svg);
   }
   
   .light{
     --text-color: black;
-    --bg-url: url(/IMG/pexels-monstera-production-7794433.jpg);
+    --bg-url: url(IMG/pexels-monstera-production-7794433.jpg);
     --stroke-color:rgba(0, 0, 0, 0.5);
     --surface-color:rgba(0, 0, 0, 0.05);
     --surface-color-hover:rgba(0, 0, 0, 0.02);
     --highlight-color: rgba(5, 149, 238, 0.2);
-    --switch-bg-url: url(/IMG/assets/sun.svg);
+    --switch-bg-url: url(IMG/assets/sun.svg);
   }
   
   body{
@@ -184,11 +184,11 @@
   /* media queries */
   @media (min-width: 700px) {
     :root{
-      --bg-url: url(/IMG/pexels-cottonbro-studio-3826435.jpg);
+      --bg-url: url(IMG/pexels-cottonbro-studio-3826435.jpg);
     }
   
     .light {
-      --bg-url: url(/IMG/pexels-aleksandar-pasaric-1323712.jpg);
+      --bg-url: url(IMG/pexels-aleksandar-pasaric-1323712.jpg);
     }
   }
   
